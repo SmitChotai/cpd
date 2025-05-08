@@ -1,0 +1,23 @@
+[
+    {
+      "question": "Deepa stitches clothes. She is already busy with many orders. She gets an urgent order. Which option is a contributor’s choice?",
+      "options": [
+        "She explains that she will be unable to take the order.",
+        "She completes the order hurriedly.",
+        "She explains her problem and tells a date.",
+        "She takes the help of another tailor to deliver the order on time without reducing the quality."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Anannya has a PhD degree. What is your advice to her when she interacts with others?",
+      "options": [
+        "Better share your knowledge with them.",
+        "There is something to learn from everyone.",
+        "You know more than them.",
+        "They may give fresh viewpoints."
+      ],
+      "answer": 1
+    }
+  ]
+  
